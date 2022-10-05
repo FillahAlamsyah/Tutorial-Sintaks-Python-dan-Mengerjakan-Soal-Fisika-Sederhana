@@ -1,2 +1,6 @@
 # Tutorial-Sintaks-Python-dan-Mengerjakan-Soal-Fisika-Sederhana
-Pengenalansintaks python beserta contoh mengerjakan soal fisika sederhana
+Pengenalans intaks python beserta contoh mengerjakan soal fisika sederhana
+
+# Mengenal Sintaks Python
+
+# Pembahasan Soal Fisika
