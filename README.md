@@ -1,5 +1,5 @@
-# Tutorial-Sintaks-Python-dan-Mengerjakan-Soal-Fisika-Sederhana
-Pengenalans intaks python beserta contoh mengerjakan soal fisika sederhana
+# Tutorial Sintaks Python dan Mengerjakan Soal Fisika Sederhana
+Pengenalan sintaks python beserta contoh mengerjakan soal fisika sederhana
 
 # Mengenal Sintaks Python
 
